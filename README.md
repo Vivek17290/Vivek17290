@@ -110,7 +110,7 @@
 <a href="https://www.linkedin.com/in/vivek-kumar-a53171311/">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/>
 </a>
-<a href="vivek.pandit3190@gmail.com">
+<a href="https://mail.google.com/mail/u/0/?ogbl#inbox">
   <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
 
