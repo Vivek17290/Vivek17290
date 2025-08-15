@@ -109,15 +109,6 @@
 
 </div>
 
-### 🤖 AI & Machine Learning Projects
-- **🧠 Smart Recommendation Engine** - Built using Python, TensorFlow & collaborative filtering
-- **👁️ Computer Vision App** - Real-time object detection with OpenCV and deep learning
-- **📊 Predictive Analytics Dashboard** - Data visualization with ML insights
-
-### 💻 Full Stack Web Applications  
-- **🛒 E-Commerce Platform** - Complete MERN stack application with payment integration
-- **📱 Social Media Dashboard** - Modern React app with Next.js and Tailwind CSS
-- **🌐 Portfolio Website** - Responsive design with HTML5, CSS3, and JavaScript
 
 ---
 
@@ -125,14 +116,11 @@
 
 ## 🤝 Let's Connect!
 
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/vivek-kumar-a53171311/">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/>
 </a>
-<a href="mailto:your.email@example.com">
+<a href="vivek.pandit3190@gmail.com">
   <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white"/>
-</a>
-<a href="https://yourportfolio.com">
-  <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white"/>
 </a>
 
 ---
