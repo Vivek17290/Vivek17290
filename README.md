@@ -105,15 +105,6 @@
 
 <div align="center">
 
-## 🚀 Featured Projects
-
-</div>
-
-
----
-
-<div align="center">
-
 ## 🤝 Let's Connect!
 
 <a href="https://www.linkedin.com/in/vivek-kumar-a53171311/">
